@@ -6,4 +6,4 @@ Localize indie iOS apps
 ## Apps
 | App | App Store Link | Localized to |
 | --- | --- | ---
-Cibo | https://apps.apple.com/us/app/cibo-visual-menu-translator/id1583992402 | NL, EN, FR, DE
+Cibo | [Download](https://apps.apple.com/us/app/cibo-visual-menu-translator/id1583992402) | NL, EN, FR, DE
